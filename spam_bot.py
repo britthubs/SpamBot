@@ -13,4 +13,3 @@ t.sleep(10)  # 10 seconds time to put cursor in the right place
 for x in range(num):
     pc.write(string)  # the string is what will get spammed
     pc.press('enter')
-
